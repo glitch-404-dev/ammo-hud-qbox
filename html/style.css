@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background: transparent;
+}
+
+#ammoBox {
+    position: absolute;
+    bottom: 50px;
+    right: 80px;
+    padding: 10px 15px;
+    border-radius: 12px;
+    background: rgba(0, 0, 0, 0.4);
+    color: white;
+    font-family: Arial, sans-serif;
+    font-size: 22px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+#ammoIcon {
+    width: 28px;
+    height: 28px;
+    filter: invert(100%);
+}
+
+#ammoText {
+    font-weight: bold;
+}
