@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'Gl!Tch'
+author 'Gl!Tch-404'
 description 'OX-Core Ammo HUD'
 version '1.0.0'
 
@@ -16,3 +16,4 @@ files {
 client_scripts {
     'client.lua'
 }
+
